@@ -1,1 +1,1 @@
-# CSA09-192472039-Assignment1
+Problem analysis and candidate classes are explained in Assignment_Report.md, Task 1.
